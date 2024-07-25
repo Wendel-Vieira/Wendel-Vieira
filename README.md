@@ -13,7 +13,6 @@
 | **Libraries**             | [![pytest][pytest]][pytest-url]                                                                                                           |
 | **Dev Tools**             | [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![Visual Studio Code][Visual Studio Code]][Visual Studio Code-url]                                                                      |
 | **Databases**             | [![MySQL][MySQL]][MySQL-url] [![SQLite][SQLite]][SQLite-url]                                                                                                                  |
-| **Hosting**               | [![Netlify][Netlify]][Netlify-url]                                                                                                                                                                  |
 
 <br>
 <br>
