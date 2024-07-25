@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Wendel Vieira <span><h6>Freelance Developer</h6></span></h1>
+<h1 align="center" color="red">Wendel Vieira <span><h6>Freelancer Developer</h6></span></h1>
 <br>
 
 
