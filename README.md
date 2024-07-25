@@ -11,7 +11,7 @@
 | **Frameworks**            | [![Flask][Flask]][Flask-url]                                                                                                                      |
 | **Libraries**             | [![pytest][pytest]][pytest-url]                                                                                                           |
 | **Dev Tools**             | [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![Visual Studio Code][Visual Studio Code]][Visual Studio Code-url] [![AWS][AWS]][AWS-url]                                                                      |
-| **Databases**             | [![MySQL][MySQL]][MySQL-url] [![SQLite][SQLite-url]                                                                                                                  |
+| **Databases**             | [![MySQL][MySQL]][MySQL-url] [![SQLite][SQLite]][SQLite-url]                                                                                                                  |
 
 <br>
 <br>
