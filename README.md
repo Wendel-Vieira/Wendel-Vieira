@@ -1,7 +1,6 @@
 <h1 align="center" color="red">Wendel Vieira <span><h6>Freelancer Developer</h6></span></h1>
 <br>
 
-
 <div align="center">
 
 ## My Stack
@@ -11,8 +10,8 @@
 | **Languages**             | [![Python][Python]][Python-url] [![C][C]][C-url] [![C#][C#]][C#-url] [![JavaScript][JavaScript]][JavaScript-url] [![HTML5][HTML5]][HTML5-url] [![CSS3][CSS3]][CSS3-url]                                                                                                          |
 | **Frameworks**            | [![Flask][Flask]][Flask-url]                                                                                                                      |
 | **Libraries**             | [![pytest][pytest]][pytest-url]                                                                                                           |
-| **Dev Tools**             | [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![Visual Studio Code][Visual Studio Code]][Visual Studio Code-url]                                                                      |
-| **Databases**             | [![MySQL][MySQL]][MySQL-url] [![SQLite][SQLite]][SQLite-url]                                                                                                                  |
+| **Dev Tools**             | [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![Visual Studio Code][Visual Studio Code]][Visual Studio Code-url] [![AWS][AWS]][AWS-url]                                                                      |
+| **Databases**             | [![MySQL][MySQL]][MySQL-url] [![SQLite][SQLite-url]                                                                                                                  |
 
 <br>
 <br>
@@ -25,7 +24,6 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-vieira&theme=react&layout=compact"
 />
 </br>
-
 
 <br/>
 </div>
@@ -56,5 +54,5 @@
 [GitHub-url]: https://github.com/
 [Visual Studio Code]: https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode
 [Visual Studio Code-url]: https://code.visualstudio.com/
-[Netlify]: https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify
-[Netlify-url]: https://www.netlify.com/
+[AWS]: https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws
+[AWS-url]: https://aws.amazon.com/
